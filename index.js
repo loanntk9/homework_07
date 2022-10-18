@@ -1,6 +1,4 @@
-
-
-let myName = "loan nguyen";
+let myName = "loan nguyen ngao";
 console.log(myName);
 myName = "1997";
 console.log(myName);
