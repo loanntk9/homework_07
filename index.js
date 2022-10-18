@@ -1,3 +1,5 @@
+
+
 let myName = "loan nguyen";
 console.log(myName);
 myName = "1997";
